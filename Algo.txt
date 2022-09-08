@@ -1,6 +1,7 @@
 step1. Find pizza place on Google Maps
     step 1a. Write down phone number of pizza place
 step2. Figure out toppings and sauce
+    step 2a. Don't forget the ranch or garlic sauce either
 step3. Pay for pizza
     step 3a. Tip delivery driver!
 step4. Enjoy
