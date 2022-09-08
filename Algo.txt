@@ -1,0 +1,4 @@
+step1. Find pizza place on Google Maps
+step2. Figure out toppings and sauce
+step3. Pay for pizza
+step4. Enjoy
